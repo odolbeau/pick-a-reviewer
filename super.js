@@ -1,5 +1,9 @@
 $( document ).ready(function() {
     reviewers = [
+        'Olivier Dolbeau',
+        'Olivier',
+        'Dolbi Dolbeau',
+        'Bab',
         'Clément Vasseur',
         'Clément',
         'Matthieu Moquet',
